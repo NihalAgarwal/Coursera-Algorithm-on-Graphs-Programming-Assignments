@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Coursera_grpah.iml" filepath="$PROJECT_DIR$/.idea/Coursera_grpah.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1_graph_decomposition1/week1_graph_decomposition1.iml" filepath="$PROJECT_DIR$/week1_graph_decomposition1/week1_graph_decomposition1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2_graph_decomposition2/week2_graph_decomposition2.iml" filepath="$PROJECT_DIR$/week2_graph_decomposition2/week2_graph_decomposition2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3_paths_in_graphs1/week3_paths_in_graphs1.iml" filepath="$PROJECT_DIR$/week3_paths_in_graphs1/week3_paths_in_graphs1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4_paths_in_graphs2/week4_paths_in_graphs2.iml" filepath="$PROJECT_DIR$/week4_paths_in_graphs2/week4_paths_in_graphs2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5_spanning_trees/week5_spanning_trees.iml" filepath="$PROJECT_DIR$/week5_spanning_trees/week5_spanning_trees.iml" />
+    </modules>
+  </component>
+</project>
